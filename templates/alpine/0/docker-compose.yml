@@ -1,10 +1,10 @@
 alpine-3.5:
   image: alpine
   labels:
-    io.rancher.container.pull_image: always
+    io.rancher.container.pull_image: 'always'
     io.rancher.container.start_once: 'true'
     io.rancher.container.dns: 'true'
-    satrapu.rancher.workshop: Java Tech Group Day \#5
+    satrapu.rancher.workshop: 'Java Tech Group Day'
   environment:
     tgd_edition: 5
   command:

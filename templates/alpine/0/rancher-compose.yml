@@ -1,8 +1,8 @@
 version: '2'
 catalog:
-  name: "Alpine Linux v3.5 4 Java Tech Group Day #5"
+  name: "Alpine Linux v3.5 4 Java Tech Group Day"
   version: 3.5
-  description: "Run Alpine Linux during Java Tech Group Day #5"
+  description: "Run Alpine Linux during Java Tech Group Day"
   questions:
     - variable: options_enum
       label: "Select an option"
@@ -15,7 +15,6 @@ catalog:
         - Tech
         - Group
         - Day
-        - \#5
     - variable: options_boolean
       label: "Enter a boolean value"
       description: "Set the value of the options_boolean environment variable"
@@ -25,7 +24,7 @@ catalog:
     - variable: options_string
       label: "Enter a string"
       description: "Set the value of the options_string environment variable"
-      default: "Java Tech Group Day #5"
+      default: "Java Tech Group Day"
       required: true
       type: "string"
 alpine-3.5:
