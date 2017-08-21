@@ -6,7 +6,7 @@ services:
       io.rancher.container.pull_image: 'always'
       io.rancher.container.start_once: 'true'
       io.rancher.container.dns: 'true'
-      satrapu.rancher.workshop: 'Java Tech Group Day \#5'
+      satrapu.rancher.workshop: 'Java Tech Group Day #5'
     environment:
       tgd_edition: 5
     command: ['tail', '-f', '/dev/null']
