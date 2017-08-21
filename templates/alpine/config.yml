@@ -1,0 +1,8 @@
+name: Alpine Linux
+description: |
+  Alpine Linux releases.
+version: 3.6
+category: Operating Systems
+maintainer: Bogdan Marian <satrapu@users.noreply.github.com>
+license: Apache 2.0
+projectURL: https://github.com/satrapu/rancher-workshop
