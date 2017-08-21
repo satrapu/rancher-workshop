@@ -1,31 +1,32 @@
 version: '2'
 catalog:
-  name: "Alpine Linux v3.5"
-  version: 3.5
-  description: "Run Alpine Linux v3.6 during Java Tech Group Day"
+  name: 'Alpine Linux v3.5'
+  version: '3.5'
+  description: 'Run Alpine Linux v3.5 during Java Tech Group Day #5'
   questions:
-    - variable: options_enum
-      label: "Select an option"
-      description: "Set the value of the options_enum environment variable"
-      default: Java
-      required: true
-      type: enum
+    - variable: 'options_enum'
+      label: 'Select an option'
+      description: 'Set the value of the options_enum environment variable'
+      default: 'Java'
+      required: 'true'
+      type: 'enum'
       options: 
-        - Java
-        - Tech
-        - Group
-        - Day
-    - variable: options_boolean
-      label: "Enter a boolean value"
-      description: "Set the value of the options_boolean environment variable"
-      default: true
-      required: true
-      type: "boolean"
-    - variable: options_string
-      label: "Enter a string"
-      description: "Set the value of the options_string environment variable"
-      default: "Java Tech Group Day"
-      required: true
-      type: "string"
+        - 'Java'
+        - 'Tech'
+        - 'Group'
+        - 'Day'
+        - '#5'
+    - variable: 'options_boolean'
+      label: 'Enter a boolean value'
+      description: 'Set the value of the options_boolean environment variable'
+      default: 'true'
+      required: 'true'
+      type: 'boolean'
+    - variable: 'options_string'
+      label: 'Enter a string'
+      description: 'Set the value of the options_string environment variable'
+      default: 'Java Tech Group Day'
+      required: 'true'
+      type: 'string'
 alpine-3-5:
   scale: 1

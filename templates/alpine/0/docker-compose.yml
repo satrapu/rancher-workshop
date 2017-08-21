@@ -1,14 +1,15 @@
-alpine-3-5:
-  image: alpine
-  labels:
-    io.rancher.container.pull_image: always
-    io.rancher.container.start_once: true
-    io.rancher.container.dns: true
-    satrapu.rancher.workshop: Java Tech Group Day \#5
-  environment:
-    tgd_edition: 5
-  command:
-    - tail -f /dev/null
-  stdin_open: true
-  tty: true
-  mem_limit: 256M
+version: '2'
+services:
+  alpine-3-5:
+    image: 'alpine:3.5'
+    labels:
+      io.rancher.container.pull_image: 'always'
+      io.rancher.container.start_once: 'true'
+      io.rancher.container.dns: 'true'
+      satrapu.rancher.workshop: 'Java Tech Group Day \#5'
+    environment:
+      tgd_edition: '5'
+    command: ['tail', '-f', '/dev/null']
+    stdin_open: 'true'
+    tty: 'true'
+    mem_limit: '256M'
