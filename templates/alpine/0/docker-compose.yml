@@ -15,4 +15,4 @@ services:
     command: ['tail', '-f', '/dev/null']
     stdin_open: true
     tty: true
-    mem_limit: 256M
+    mem_limit: 200000000
