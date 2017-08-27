@@ -9,6 +9,9 @@ services:
       satrapu.rancher.workshop: 'Java Tech Group Day #5'
     environment:
       tgd_edition: 5
+      tgd_options_enum: ${options_enum}
+      tgd_options_boolean: ${options_boolean}
+      tgd_options_string: ${options_string}
     command: ['tail', '-f', '/dev/null']
     stdin_open: true
     tty: true

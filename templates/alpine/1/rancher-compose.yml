@@ -28,6 +28,12 @@ catalog:
       default: 'Java Tech Group Day'
       required: false
       type: 'string'
+    - variable: 'options_other_string'
+      label: 'Enter a string'
+      description: 'Set the value of the options_other_string environment variable'
+      default: 'Java Tech Group Day'
+      required: false
+      type: 'string'
 services:
   alpine-3-6:
     scale: 1
