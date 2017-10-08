@@ -3,4 +3,11 @@ This repo contains the materials used by the "Rancher Workshop" session which to
 
 These materials have been created for [iQuest](http://www.iquestgroup.com/en/), but this company has been kind enough to open source them.  
 
-[![iQuest Logo](http://www.iquestgroup.com/en/wp-content/themes/iQuestMainSite/images/common/iquest-retina-244px.png)](http://www.iquestgroup.com/en/)
+[![iQuest Logo](http://www.iquestgroup.com/en/wp-content/themes/iQuestMainSite/images/common/iquest-retina-244px.png)](http://www.iquestgroup.com/en/)  
+Workshop
+==
+Check [wiki](https://github.com/satrapu/rancher-workshop/wiki).
+
+Custom catalog
+==
+Check [this folder](https://github.com/satrapu/rancher-workshop/tree/master/templates).
