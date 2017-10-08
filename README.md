@@ -6,10 +6,8 @@ These materials have been created for [iQuest](http://www.iquestgroup.com/en/), 
 [![iQuest Logo](http://www.iquestgroup.com/en/wp-content/themes/iQuestMainSite/images/common/iquest-retina-244px.png)](http://www.iquestgroup.com/en/)
 ==  
 
-Workshop 
-==
+## Workshop 
 Check [wiki](https://github.com/satrapu/rancher-workshop/wiki).
 
-Custom catalog
-==
+## Custom catalog
 Check [this folder](https://github.com/satrapu/rancher-workshop/tree/master/templates).
