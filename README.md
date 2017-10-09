@@ -9,4 +9,4 @@ Check [this folder](https://github.com/satrapu/rancher-workshop/tree/master/temp
 
 ## Sponsor
 [![iQuest Logo](http://www.iquestgroup.com/en/wp-content/themes/iQuestMainSite/images/common/iquest-retina-244px.png)](http://www.iquestgroup.com/en/)  
-These materials have been created for iQuest, but this company has been kind enough to open source them.   
+These materials have been created for and paid by iQuest, but this company has been kind enough to open source them.   
