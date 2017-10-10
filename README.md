@@ -7,7 +7,6 @@ Check [wiki](https://github.com/satrapu/rancher-workshop/wiki).
 ## Rancher custom catalog
 Check [this folder](https://github.com/satrapu/rancher-workshop/tree/master/templates).
 
-## Sponsor
-These materials have been created for and paid by iQuest, but this company has been kind enough to open source them.  
+## Sponsor 
 [![iQuest Logo](https://github.com/satrapu/rancher-workshop/blob/master/images/iquest-banner.jpg)](http://www.iquestgroup.com/en/)  
 
