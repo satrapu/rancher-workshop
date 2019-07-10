@@ -10,5 +10,5 @@ Check [wiki](https://github.com/satrapu/rancher-workshop/wiki).
 Check [this folder](https://github.com/satrapu/rancher-workshop/tree/master/templates).
 
 ## Sponsor 
-[![iQuest Logo](https://github.com/satrapu/rancher-workshop/blob/master/images/iquest-banner.jpg)](http://www.iquestgroup.com/en/)  
+[![iQuest Logo](https://github.com/satrapu/rancher-workshop/blob/master/images/iquest-banner.jpg)](https://www.iquestgroup.com/)  
 
